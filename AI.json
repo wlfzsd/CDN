@@ -1,0 +1,44 @@
+[
+  {
+    "id":3,
+    "name":"Claude3 Opus",
+    "label":"claude-3-opus-20240229",
+    "description":"Superb multimodal effect",
+    "support_file_type":
+    [
+      "image"
+    ],
+    "reward":7,
+    "logo":"https://codeversion.oss-us-west-1.aliyuncs.com/assets/claude-2.png",
+    "usage":0,
+    "score":0,
+    "gpts":false
+  },
+  {
+    "id":11,
+    "name":"Claude3.5 Sonnet",
+    "label":"anthropic.claude-3-5-sonnet-20240620-v1:0",
+    "description":"Superb multimodal effect",
+    "support_file_type":
+    [
+      "image"
+    ],
+    "reward":7,
+    "logo":"https://codeversion.oss-us-west-1.aliyuncs.com/assets/claude-2.png",
+    "usage":0,
+    "score":0,
+    "gpts":false
+  },
+  {
+    "id":8,
+    "name":"Llama-3-70B",
+    "label":"llama3",
+    "description":"Meta Llama 3",
+    "support_file_type":null,
+    "reward":1,
+    "logo":"https://codeversion.oss-us-west-1.aliyuncs.com/assets/llama-70b.png",
+    "usage":0,
+    "score":0,
+    "gpts":false
+  }
+]
